@@ -6,6 +6,12 @@
 | ------- | ---------- |
 | `git clone <url>` | Clone a repository to local |
 
+### Pull a Repository
+
+| Command | Description |
+| ------- | ----------- |
+| `git pull` | Used to fetch and download content from a remote repository and immediately update the local repository to match that content |
+
 ### Add to GitHub
 
 | Command | Description |
