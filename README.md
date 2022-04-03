@@ -1,6 +1,6 @@
 # Github-Command
 
-#Clone a repository:
+Clone a repository:
   git clone
 
 Add to GitHub
