@@ -23,6 +23,12 @@
 | `git remote -v` | Shows URLs of remote repositories when listing your current remote connections |
 | `git push origin main` | The origin represents a remote name where the user wants to push the changes |
 
+### Edit a Commit Message
+
+| Command | Description|
+| ------- | ---------- |
+| `git commit --amend -m "New commit message."` | Edit the commit message |
+
 ### Getting & Creating Projects
 
 | Command | Description |
